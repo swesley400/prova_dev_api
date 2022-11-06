@@ -1,0 +1,112 @@
+[{
+    "id": 1,
+    "uf": "SP",
+    "populacao": 46649132
+},{
+    "id": 2,
+    "uf": "MG",
+    "populacao": 21411923	
+},
+{
+    "id": 3,
+    "uf": "RJ",
+    "populacao": 17463349	
+},{
+    "id": 4,
+    "uf": "BA",
+    "populacao": 14985284	
+},{
+    "id": 5,
+    "uf": "PR",
+    "populacao": 11597484		  
+},{
+    "id": 6,
+    "uf": "RS",
+    "populacao": 11466630
+},{
+    "id": 7,
+    "uf": "PE",
+    "populacao": 9674793	
+},{
+    "id": 8,
+    "uf": "CE",
+    "populacao": 819240580
+},{
+    "id": 9,
+    "uf": "PA",
+    "populacao": 8777124
+},{
+    "id": 10,
+    "uf": "SC",
+    "populacao": 7338473
+},{
+    "id": 11,
+    "uf": "GO",
+    "populacao": 7206589	
+},{
+    "id": 12,
+    "uf": "MA",
+    "populacao": 7153262	
+},{
+    "id": 13,
+    "uf": "AM",
+    "populacao": 4269995	
+},{
+    "id": 14,
+    "uf": "ES",
+    "populacao": 4108508	
+},{
+    "id": 15,
+    "uf": "PB",
+    "populacao": 4059905	
+}
+,{
+    "id": 16,
+    "uf": "MT",
+    "populacao": 3567234	
+},{
+    "id": 17,
+    "uf": "RN",
+    "populacao": 3560903	
+},{
+    "id": 18,
+    "uf": "AL",
+    "populacao": 3365351		
+},{
+    "id": 19,
+    "uf": "PI",
+    "populacao": 3289290	
+},{
+    "id": 20,
+    "uf": "DF",
+    "populacao": 3094325
+},{
+    "id": 21,
+    "uf": "MS",
+    "populacao": 2839188	
+},{
+    "id": 22,
+    "uf": "SE",
+    "populacao": 2338474	
+},{
+    "id": 23,
+    "uf": "RO",
+    "populacao": 1815278
+},{
+    "id": 24,
+    "uf": "TO",
+    "populacao": 1607363
+},{
+    "id": 25,
+    "uf": "AC",
+    "populacao": 906876
+},{
+    "id": 26,
+    "uf": "AP",
+    "populacao": 877613	
+},{
+    "id": 27,
+    "uf": "RR",
+    "populacao": 652713
+}
+]
